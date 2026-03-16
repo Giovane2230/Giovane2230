@@ -1,4 +1,5 @@
 ## Welcome!
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=giovane2230)](https://www.last.fm/user/giovane2230)
 ### I am [Giovane](https://github.com/Giovane2230), a Developer, UI/UX Enthusiast, System Development Student
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/giovane-dos-santos-silva-670638278)
 ![](https://komarev.com/ghpvc/?username=giovane2230&color=006437&style=flat-square)
