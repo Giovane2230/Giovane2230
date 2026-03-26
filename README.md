@@ -1,5 +1,4 @@
 ## Welcome!
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=giovane2230)](https://www.last.fm/user/giovane2230)
 ### I am [Giovane](https://github.com/Giovane2230), a Developer, UI/UX Enthusiast, System Development Student
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/giovane-dos-santos-silva-670638278)
 ![](https://komarev.com/ghpvc/?username=giovane2230&color=006437&style=flat-square)
@@ -38,4 +37,5 @@ Ui/Ux Design<br>
 
 <hr>
 
-![crazy, but that's how it goes](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDR4OG93Zzg5bHpoMTN0Y3R0ZW9ra3I3c3A4M3Z1cXFreGF6ZmJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPiSrihyxZnarbG/giphy.gif)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=giovane2230)](https://www.last.fm/user/giovane2230)
+
