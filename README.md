@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/giovane-dos-santos-silva-670638278)
 ![](https://komarev.com/ghpvc/?username=giovane2230&color=006437&style=flat-square)
 
-<br>
+<hr>
 
 <b>My Skills:</b>
 <ul>
